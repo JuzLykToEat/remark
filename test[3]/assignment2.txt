@@ -1,0 +1,13 @@
+1. Create a new application with either Laravel or Ruby on Rails
+
+2. Study the contents of movies.csv and reviews.csv
+
+3. Define a database schema and add it to your application
+
+4. Write an import task to import both CSV-files
+
+5. Show an overview of all movies in your application
+
+6. Make a search form to search for an actor
+
+7. Provide basic unit test. 

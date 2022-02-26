@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+# This model initially had no columns defined. If you add columns to the
+# model remove the '{}' from the fixture names and add the columns immediately
+# below each fixture, per the syntax in the comments below
+#
+one:
+  user: user_1
+  stars: 3
+  review: review_1
+  movie_id: 1
+
+two:
+  user: user_2
+  stars: 4
+  review: review_2
+  movie_id: 1
+  
+three:
+  user: user_3
+  stars: 4
+  review: review_3
+  movie_id: 2
